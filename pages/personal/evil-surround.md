@@ -4,12 +4,10 @@
 
 - add a surrounding character
 `ys <text object> <char>`
-
 `ysiw' will make abc to 'abc'`
 
 - add a surrounding tag (<tag>)
 `ys <text object> t <tag>`
-
 `ysiwttext will turn abc to <text>abc</text>`
 
 - add surrounding to the whole line

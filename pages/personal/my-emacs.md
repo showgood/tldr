@@ -1,10 +1,8 @@
 # Emacs
 
-> A framework to build the editor you want.
-
 - change file from dos to unix format
 
-`M-x set-buffer-file-coding-system then choose **unix**`
+`{{M-x set-buffer-file-coding-system}} then choose {{unix}}`
 
 - delete duplicate line
 `M-x delete-duplicate-lines`
